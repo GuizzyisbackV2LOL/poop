@@ -434,7 +434,4 @@ Heartbeat:Connect(function()
     Aiming.GetClosestPlayerToCursor()
 end)
 
--- //
-return Aiming
 
--- // If you want the examples, look at the docs
